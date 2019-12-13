@@ -1,0 +1,13 @@
+.jumbotron{
+background-image: linear-gradient(to right, #0D9146,
+#50BAC8, 	#B30912);
+padding: 10px;
+margin-bottom: 0px;;
+color:white
+}
+
+.carImage img {
+    width: auto;
+    height: auto;
+    max-height:600px;
+  }

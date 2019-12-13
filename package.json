@@ -1,0 +1,19 @@
+{
+  "name": "meekers",
+  "version": "1.0.0",
+  "description": "- Jummbotron on the top of the page",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "node": "^13.3.0",
+    "node.js": "^0.0.0",
+    "popper.js": "^1.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Subham KC",
+  "license": "ISC"
+}
