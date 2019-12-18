@@ -1,13 +1,24 @@
 .jumbotron{
-background-image: linear-gradient(to right, #0D9146,
-#50BAC8, 	#B30912);
+/* background-image: linear-gradient(to right, #0D9146,
+#50BAC8, 	#B30912); */
+background-color: cadetblue;
 padding: 10px;
 margin-bottom: 0px;;
 color:white
 }
-
+.forFont{
+  font-family: sans-serif;
+}
 .carImage img {
     width: auto;
     height: auto;
     max-height:600px;
+  }
+
+  .cardList li{
+    border-bottom:0;
+  }
+
+  #endofPage{
+    margin-top:10px;
   }
