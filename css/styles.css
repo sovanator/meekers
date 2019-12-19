@@ -1,7 +1,7 @@
 .jumbotron{
-/* background-image: linear-gradient(to right, #0D9146,
-#50BAC8, 	#B30912); */
-background-color: cadetblue;
+background-image: linear-gradient(to right, rgb(212, 223, 236),
+#50BAC8);
+/* background-color: cadetblue; */
 padding: 10px;
 margin-bottom: 0px;;
 color:white
