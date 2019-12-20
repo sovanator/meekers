@@ -1,13 +1,28 @@
+body{
+  background-color: #c4dff6;
+}
+
+
 .jumbotron{
-background-image: linear-gradient(to right, rgb(212, 223, 236),
-#50BAC8);
-/* background-color: cadetblue; */
+/* background-image: linear-gradient(to right, rgb(212, 223, 236),
+#50BAC8); */
+background-color:#3B8BEB;
 padding: 10px;
-margin-bottom: 0px;;
+margin-bottom: 5px;;
 color:white
 }
+
+nav{
+background-color: #b23850;
+
+}
+
+
 .forFont{
   font-family: sans-serif;
+}
+.card{
+  background-color: #c4dbf6;
 }
 .carImage img {
     width: auto;
